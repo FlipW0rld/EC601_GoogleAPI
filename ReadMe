@@ -1,0 +1,8 @@
+# User Story
+# 1. Students/Teachers/Staffs can search by this API to find some supermarkets around their school.
+# 2. People who come to school for visit can search by this API to find some supermarkets around their school.
+# 3. People who want to open a supermarket can use this API to plan where their store is most suitable to open.
+
+
+# This Google Maps API is used to find supermarket locations near school locations, with up to 20 nearby supermarkets being searched for information.
+# And the found supermarket can be clicked to view supermarket details, such as operating hours, phone number, and detailed address, etc.
